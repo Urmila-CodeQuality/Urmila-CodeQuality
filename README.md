@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <!-- This is your new Anya Walking GIF -->
-  <img src="media.tenor.com" width="350" alt="Anya Walking">
+  <img src="./anya-walking.gif" width="350" alt="Anya Walking">
 </p>
 
 ---
