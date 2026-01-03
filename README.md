@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./anya-walking.gif" width="350" alt="Anya Walking">
+  <img src="https://media.giphy.com/media/FWAcpJsFT9mJHvGf1t/giphy.gif" width="350" alt="Anya Heh GIF">
 </p>
 
 ---
